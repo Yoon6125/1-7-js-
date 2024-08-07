@@ -1,0 +1,22 @@
+#rpc_result_screen{
+    width: 800px;
+    height: 500px;
+}
+#rpc_user{
+}
+#rpc_vs{
+    width: 50px;    
+}
+#rpc_com{
+}
+#screen{
+    display: flex;
+    flex-direction: row;
+    flex-basis: 1fr 1fr 1fr;
+    height: 200px;
+}
+#main_screen{
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+}
